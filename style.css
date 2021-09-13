@@ -1,0 +1,105 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #eee;
+  font-family: 'Roboto', sans-serif;
+}
+.golu{
+  max-width: 1000px;
+  background-color: rgb(250, 188, 219);
+  margin: 0 auto;
+  padding: 20px;
+}
+header{
+
+}
+.profile{
+width: 100px;
+height: 80px;
+border: 3px solid white;
+border-radius: 50%;
+float: left;
+}
+.write{
+  float: left;
+ padding: 12px;
+}
+h1,h2,h3,h4,h5,h6{
+  color: rgb(13, 126, 120);
+}
+.linkadd{
+  float: right;
+}
+.linkadd a{
+text-decoration: none;
+color:rgb(13, 126, 120); 
+font-weight: bold;
+}
+.linkadd a:hover{
+  text-decoration: underline;
+  color: rgb(219, 43, 43);
+
+}
+.div-clear{
+  clear: both;
+}
+hr{
+  border: 3px solid black;
+  width: 100%;
+  margin: 20px auto;
+  border-bottom: none;
+}
+#personal{
+
+}
+.contain{
+
+}
+.left-div{
+ width: 50%;
+ float: left;
+}
+.right-div{
+width: 50%;
+float: left;
+}
+.common-hr{
+  border: solid black 1px;
+  border-bottom: none;
+  width: 100%;
+  margin: 20px auto;
+}
+.foot{
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+}
+.foot a{
+  color: antiquewhite;
+  text-decoration: none;
+  margin: 20px;
+}
+.foot p{
+  color: antiquewhite;
+  margin-top: 20px;
+}
+.foot a:hover{
+  background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
